@@ -3,6 +3,7 @@ I have made Sketchup animations with Ruby language
 
 
 English ///
+
 Watch the youtube video on the link below, the cosine function is used for 2-dimensional circular wave effect. 
 cos (beta * (x ^ 2 + y ^ 2)) beta = 0.1 to 0.01. x and y represent spatial coordinates. 
 I try to prepare a similar ruby script.
@@ -15,6 +16,7 @@ gain a grooved appearance, clockwise at a certain speed. I try to prepare a simi
   
   
 Turkish ///
+
 Final Projesi-1 (Ruby Script 30 puan) Aşağıdaki linkteki youtube videosunu izleyiniz, 
 2 boyutta dairesel dalga efekti için cosinüs fonksiyonu kullanılmıştır. cos(beta*(x^2+y^2)) 
 beta=0.1 ile 0.01 arasında değişebilir. x ve y ise uzamsal (spatial) koordinatları temsil etmektedir. 
